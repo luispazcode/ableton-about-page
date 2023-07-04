@@ -1,3 +1,3 @@
-## Ableton About Page
+# Ableton About Page
 
-# By: Luis Paz Córdova
+By: Luis Paz Córdova
